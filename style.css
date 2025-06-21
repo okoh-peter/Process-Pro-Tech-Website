@@ -744,6 +744,11 @@ p {
     header .container .menu-icon{
         display: block;
         cursor: pointer;
+        z-index: 1000;
+  position: relative;
+  font-size: 2rem;
+ 
+  margin-bottom: 20px;
     }
     .menu.show {
     display: block;
