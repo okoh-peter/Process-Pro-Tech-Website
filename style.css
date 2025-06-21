@@ -328,6 +328,16 @@ color: var(--black-color);
    
 }
 
+.image-wrapper {
+  background-color: #1e1e1e; /* dark placeholder */
+  height: 300px;
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  overflow: hidden;
+  position: relative;
+}
+
 
 .portfolio .portfolio-img  .portcard-text{
    background-color:var(--black-small-card-color); 
