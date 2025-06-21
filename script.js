@@ -3,7 +3,7 @@
 (function() {
   var gaScript = document.createElement('script');
   gaScript.async = true;
-  gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-11383063131';
+  gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-Y906QGSN42';
   document.head.appendChild(gaScript);
 
   window.dataLayer = window.dataLayer || [];
