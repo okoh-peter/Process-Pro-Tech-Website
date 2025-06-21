@@ -307,7 +307,7 @@ color: var(--black-color);
    height: 300px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    object-fit: cover;
+    object-fit: contain;
    margin-top: 0;
     display: block;
 }
@@ -330,7 +330,7 @@ color: var(--black-color);
 
 .image-wrapper {
   background-color: #1e1e1e; /* dark placeholder */
-  height: 300px;
+  height: 230px;
   width: 100%;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
